@@ -6,4 +6,4 @@
  */
 
 module.exports = {};
-<h1>First Headline</h1>
+
