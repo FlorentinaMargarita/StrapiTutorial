@@ -1,0 +1,17 @@
+{
+  "kind": "collectionType",
+  "collectionName": "marios",
+  "info": {
+    "name": "Mario"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "MarioDescription": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
